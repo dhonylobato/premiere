@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:0 group-title="DHONY premiere"
+
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209086.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 2 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209068.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209069.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 3 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209071.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209072.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 FULLHD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209074.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
+http://nbrasil.biz:80/live/ricardojose/15998312436/209075.m3u8
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULLHD
+http://nbrasil.biz:80/ricardojose/15998312436/209086
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
+http://nbrasil.biz:80/ricardojose/15998312436/209087
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
+http://nbrasil.biz:80/ricardojose/15998312436/95614
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES SD
+http://nbrasil.biz:80/ricardojose/15998312436/209088
+#EXTINF:0 tvg-id="ext" group-title="Premiere",PREMIERE - CLUBES HD
+http://xsrv.me:8080/aline2021/2021aline/24674
+#EXTINF:0 tvg-id="ext" group-title="Premiere",PREMIERE - CLUBES FHD
+http://xsrv.me:8080/aline2021/2021aline/24671
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERE CLUBES",PREMIERE CLUBES HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/189
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERE CLUBES",PREMIERE CLUBES HD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4084
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERE CLUBES",PREMIERE CLUBES FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/188
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERE CLUBES",PREMIERE CLUBES SD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/192
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERE CLUBES",PREMIERE CLUBES SD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4085
